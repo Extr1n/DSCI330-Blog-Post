@@ -1,0 +1,1 @@
+For your first blog post, write 200 words about some topic in cognition & computation that interests you.  Be as specific as you can.
