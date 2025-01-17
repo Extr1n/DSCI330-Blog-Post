@@ -1,0 +1,12 @@
+# Post 250 words describing your interest in the course:
+## What topics might you want too pursue for your final project?
+First I wish to write down the three areas this class will focus on:
+1. Theories
+2. Models
+3. Tools
+
+Between these 3, the areas the interest me the most are models and tools. This is because my background in cS/DS and learning about a variiety of AI models as well as learning about various models from various classes like PHIL306 (Mathematical Logic and Number Theory), CSDS343(Theoretical Computer Science), and CSDS302 (Discrete Mathematics). These classes helped prepare me to think in terms of models. Learning to think in a different way is an essential skill for a variety of higher level math and I believe that skill is important for this class. For example, learning linear algebra (MATH307) and understanding how we can approach a variety of problems using vectors and matricies is quite unintiutive at the start but one learns to develop an eye for it. I believe the same is true for model theory which will be quite important to grasp a deeper understanding of these computational models. Additionally, learning about different AI models and how they sometimes mimic human cognition (ie neural networks). As such, learning about the models for human cogition will not only be interesting to me but useful when I dive deeper into AI. 
+
+When it comes to the various computational tools for studying human cognition, they will likely be somewhat technical. I believe in order to get the most out of these computational tools it will require soomeone to do a fair amount of "fiddling" with the parameters and changing maybe potential weightings of variables etc. As such, my background in DSCI & CS courses at CWRU will allow me to have a much deeper understanding of these tools in order to be able to full utilize them. Additionally, as a CS/DSCI major, I love to mess around with technology and learn about the capabilities of whatever program I am using. For fun, me and Trevor (in this class) will sometimes code in UIUA which is a stack based programming language that utilizes a variety of symbols as built in functions to the language. While looking at UIUA may be daunting at first (especially for a non programmer) it isn't too bad once you deevelop an eye for the syntax. 
+
+As such, I believe my technical background in CS/DSCI as well as my wide background in college level mathematics have prepared me to learn about both models and computational tools for human cognition.
