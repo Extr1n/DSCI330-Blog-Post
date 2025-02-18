@@ -1,0 +1,3 @@
+# 500 word paper posted to your blog and to your Submission Page (see above) . It must be in one of the three areas—theory, models, tools. State the area at the top of your paper.
+## Theory: Connectionism
+Connectionism is a cognitive science framework where cognition is formed from the interconnectedness of simple, small processing units. This theory was inspired by the structure of the brain, that is interconnected neurons to form a network of processing units. Connectionism is commonly used in AI through neural networks, where there are parallel smaller processing units that are connected together to come to the final conclusion. 
