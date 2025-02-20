@@ -4,5 +4,5 @@ Connectionism is a cognitive science framework where cognition is formed from th
 
 An example of a neural network is the following image:
 
-![Neural Network](https://camo.githubusercontent.com/e69a2f71ff58fdacaa3ec2cc7b60150a22040ffd0b89bb48e21214a91e9ab8e8/687474703a2f2f636f6c61682e6769746875622e696f2f706f7374732f323031342d30332d4e4e2d4d616e69666f6c64732d546f706f6c6f67792f696d672f6578616d706c655f6e6574776f726b2e737667)
+![Neural Network](https://www.pngkey.com/png/full/876-8762622_our-technology-deep-learning-icon-png.png)
 
