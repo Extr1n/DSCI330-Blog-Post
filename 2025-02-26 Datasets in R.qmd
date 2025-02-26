@@ -14,10 +14,12 @@ The dataset I am using is this one below. I chose this dataset because I plan on
 library(readr)
 mental_health <- read_csv("data/MentalHealthSurvey.csv")
 
+spec(mental_health)
+
 print(mental_health)
 ```
 
-### Scatter Plot
+### Scatter Plot With Line of Best Fit
 ```{r}
 plot(mental_health$academic_pressure, mental_health$anxiety, main = "Academic Pressure vs Anxiety", xlab = "Academic Pressure", ylab = "Anxiety")
 
