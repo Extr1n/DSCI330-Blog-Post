@@ -1,0 +1,27 @@
+---
+format: pdf
+---
+
+# Datasets in R
+
+The dataset I am using is this one below. I chose this dataset because I plan on using it for my final project so I might as well get a head start on it!
+
+[https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey](https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey)
+
+## R code
+### Load Dataset
+```{r}
+library(readr)
+mental_health <- read_csv("data/MentalHealthSurvey.csv")
+
+print(mental_health)
+```
+
+### Scatter Plot
+```{r}
+plot(mental_health$academic_pressure, mental_health$anxiety, main = "Academic Pressure vs Anxiety", xlab = "Academic Pressure", ylab = "Anxiety")
+
+fit <- lm(mental_health$anxiety ~ mental_health$academic_pressure)
+abline(fit, col = "red")
+
+```
